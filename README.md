@@ -61,7 +61,7 @@ The heatmap confirms our t-test findings. Troponin and CK-MB show the strongest 
 │   └── heart_attack_dataset.csv       # Clinical patient records
 ├── images/                            # Evaluation metrics & EDA charts
 ├── notebooks/
-│   └── heart_attack_prediction.ipynb  # Statistical testing & Modeling pipeline
+│   └── heart_attack_classification.ipynb  # Statistical testing & Modeling pipeline
 ├── requirements.txt                   # Dependencies
 └── README.md
 ```
