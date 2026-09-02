@@ -67,6 +67,6 @@ The heatmap confirms our t-test findings. Troponin and CK-MB show the strongest 
 ```
 
 ## 🚀 How to Run
-1. Clone this repository: `git clone https://github.com/Daaffaaisa/Heart-Attack-Prediction.git`
+1. Clone this repository: `git clone https://github.com/Daaffaaisa/Heart-Attack-Classification.git`
 2. Install dependencies: `pip install -r requirements.txt`
 3. Run the Jupyter Notebook in the notebooks/ directory.
