@@ -28,7 +28,7 @@ The ultimate goal is to assist medical staff in prioritizing patients. Because m
 ## 📊 Key Insights & Model Evaluation
 
 ### 1. Biomarkers Dwarf Vital Signs
-Independent t-tests revealed a counter-intuitive finding for non-specialists: Blood pressure (p=0.450) and pulse rate (p=0.807)—metrics commonly associated with heart risk—showed **no statistically significant difference** between classes. 
+Independent t-tests revealed a counter-intuitive finding for non-specialists: Blood pressure (p=0.450) and pulse rate (p=0.807)—metrics commonly associated with heart risk showed **no statistically significant difference** between classes. 
 
 Instead, "silent" cardiac biomarkers (Troponin and CK-MB) completely dominate the prediction power. 
 
